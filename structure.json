@@ -1,0 +1,13 @@
+{
+    "First Element": {
+      "node1": 1,
+      "node2": 5
+    },
+    "Second Element": [
+      {
+        "node in array1": 2,
+        "node in array2": 3
+      }
+    ],
+    "Third Element": 7
+  }
